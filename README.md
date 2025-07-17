@@ -39,6 +39,6 @@ Tools:       Git, Postman, Vercel, Render
 
 💼 [LinkedIn](https://www.linkedin.com/in/vitthalganeshshivane/)
 
-🌐 [Portfolio](https://vitthalganeshshivane.vercel.app/) (soon)
+🌐 [Portfolio](https://vitthalganeshshivane.vercel.app/)
 
 📬 Email: vitthalganeshshivane@gmail.com
