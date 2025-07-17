@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitthal</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Intern @ Amika Softwares | CSE Student</h3>
+<h3 align="center">🚀 Full-Stack Developer | CSE Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Code.+Build.+Learn.+Repeat.;MERN+Stack+%7C+React+%7C+Node+%7C+MongoDB;DSA+in+Java+%7C+B.Tech+%7C+2026+Graduate" alt="Typing SVG" />
