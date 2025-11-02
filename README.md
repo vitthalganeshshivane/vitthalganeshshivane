@@ -36,7 +36,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ## 🧩 Experience  
 ### 💼 MERN Stack Developer Intern — *Amika Softwares*  
-📅 May 2024 – June 2024 | On-site  
+📅 May 2025 – June 2025 | On-site  
 
 **Key Work:**  
 - Developed full-stack web apps using **MongoDB, Express.js, React, Node.js**  
