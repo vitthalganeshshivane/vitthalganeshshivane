@@ -1,44 +1,93 @@
-<h1 align="center">Hi 👋, I'm Vitthal</h1>
-<h3 align="center">🚀 Full-Stack Developer | CSE Student</h3>
+# 👋 Hi, I'm Vitthal Ganesh Shivane  
+### Aspiring Software Engineer | MERN Stack Developer | Problem Solver  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Code.+Build.+Learn.+Repeat.;MERN+Stack+%7C+React+%7C+Node+%7C+MongoDB;DSA+in+Java+%7C+B.Tech+%7C+2026+Graduate" alt="Typing SVG" />
-</p>
-
-
+🚀 Welcome to my GitHub! I’m a passionate developer who loves building full-stack web applications and learning new technologies every single day.  
 
 ---
 
+## 🌟 About Me  
+🎓 B.Tech in **Computer Science and Engineering** at Priyadarshini Bhagwati College of Engineering, Nagpur  
+⚙️ Diploma in **Mechanical Engineering** from PL Government Polytechnic, Latur  
+💻 Transitioned from mechanical roots to modern software engineering  
+🔥 Currently exploring **DSA, system design, and cloud technologies**  
 
-
-
-### 🧑‍💻 About Me
-
-- 💼 MERN Stack Intern @ **Amika Softwares**
-- 🎓 Final Year B.Tech CSE @ PBCOE Nagpur  
-- 🧠 Currently learning: **Advanced React**, **Redux Toolkit**, and **DSA**
-- 🔭 Working on: `vroom45` – a ride-booking web app
-- 📖 I love reading about history, tech & personal growth
+I enjoy turning complex problems into simple, beautiful, and intuitive solutions — and believe that clean code is poetry written in logic.  
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Technical Skills  
 
-```
-javascript
-Languages:   Java, JavaScript
-Frontend:    React.js, Tailwind CSS, GSAP
-Backend:     Node.js, Express.js, MongoDB, JWT, Socket.IO
-Tools:       Git, Postman, Vercel, Render
-```
+### 💻 Frontend  
+- **React.js** ⚛️  
+- **JavaScript (ES6+)**  
+- **HTML5, CSS3, Tailwind CSS**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vitthalganeshshivane&show_icons=true&theme=github_dark" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=github_dark" height="160"/> </p>
+### ⚙️ Backend  
+- **Node.js, Express.js**  
+- **MongoDB (Mongoose ORM)**  
+- **RESTful APIs & Authentication (JWT)**  
 
+### 🧰 Tools & Technologies  
+- **Git, GitHub, VS Code, Postman, npm**  
+- Familiar with **Socket.io, Material-UI, Bootstrap**  
+- Currently learning **Redux Toolkit**, **TypeScript**, and **AWS**  
 
-<h3 align="center">📫 Connect with Me</h3>
+---
 
-💼 [LinkedIn](https://www.linkedin.com/in/vitthalganeshshivane/)
+## 🧩 Experience  
+### 💼 MERN Stack Developer Intern — *Amika Softwares*  
+📅 May 2024 – June 2024 | On-site  
 
-🌐 [Portfolio](https://vitthalganeshshivane.vercel.app/)
+**Key Work:**  
+- Developed full-stack web apps using **MongoDB, Express.js, React, Node.js**  
+- Built REST APIs and responsive UIs for live projects  
+- Collaborated on version control via Git and code reviews  
+- Gained hands-on exposure to scalable software design and debugging  
 
-📬 Email: vitthalganeshshivane@gmail.com
+---
+
+## 🚀 Projects  
+
+### 🧳 [Vroom45 – Ride Booking App](https://vroom45.vercel.app/)  
+A full-stack **Uber-like ride booking app** for mobile users with live location tracking and real-time ride updates.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Socket.io, Redux Toolkit  
+🔹 Features: Real-time ride tracking, role-based access, mobile-first UI  
+
+---
+
+### 🏫 [Digital Classroom Platform](https://digital-classroom-gamma.vercel.app/)  
+A web-based classroom management system connecting teachers and students with live class links, assignments, and study materials.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io, Cloudinary  
+🔹 Features: Role-based auth, notice board, assignment uploads, responsive UI  
+
+---
+
+## 🎯 Current Goals  
+- Master **DSA in Java** and improve problem-solving skills  
+- Explore **Cloud Computing (AWS)** and advanced **React patterns**  
+- Build production-level full-stack applications  
+
+---
+
+## 📚 Education  
+🎓 **B.Tech – Computer Science & Engineering**  
+*Rashtrasant Tukadoji Maharaj Nagpur University (2023–2026)*  
+
+🎓 **Diploma – Mechanical Engineering**  
+*Puranmal Lahoti Govt. Polytechnic, Latur (2020–2023)*  
+
+---
+
+## 💬 Let's Connect  
+
+📧 **Email:** [vitthalganeshshivane@gmail.com](mailto:vitthalganeshshivane@gmail.com)  
+🌐 **Portfolio:** [vitthalganeshshivane.vercel.app](https://vitthalganeshshivane.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/vitthalganeshshivane](https://www.linkedin.com/in/vitthalganeshshivane)  
+💻 **GitHub:** [github.com/vitthalganeshshivane](https://github.com/vitthalganeshshivane)  
+📱 **Phone:** +91 9370394732  
+📍 Nagpur, India  
+
+---
+
+⭐ *“Code with logic, design with passion, and build with purpose.”*  
+
