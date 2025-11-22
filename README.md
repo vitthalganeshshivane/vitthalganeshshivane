@@ -15,9 +15,8 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ---
 
-## 📊 GitHub Stats – Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=tokyonight)
 
 ---
 
