@@ -15,6 +15,12 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ---
 
+## 📊 GitHub Stats – Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
 ## 🧠 Technical Skills  
 
 ### 💻 Frontend  
