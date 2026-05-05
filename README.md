@@ -45,6 +45,19 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 ---
 
 ## 🧩 Experience  
+
+### 💼 Full Stack Developer Intern — *TARS Technologies*  
+📅 April 2026 – Present | Hybrid  
+
+**Key Work:**  
+- Developing a **single-vendor eCommerce platform** with end-to-end MERN stack integration  
+- Building and integrating **RESTful APIs** for product management, authentication, and order processing  
+- Designing responsive and scalable **frontend components using React**  
+- Collaborating with the development team using **Git workflows, code reviews, and task-based execution**  
+- Actively working in a **real-world agile environment**, contributing to feature development and debugging  
+
+---
+
 ### 💼 MERN Stack Developer Intern — *Amika Softwares*  
 📅 May 2025 – June 2025 | On-site  
 
