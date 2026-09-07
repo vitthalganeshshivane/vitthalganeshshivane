@@ -1,116 +1,255 @@
-# 👋 Hi, I'm Vitthal Ganesh Shivane  
-### Aspiring Software Engineer | MERN Stack Developer | Problem Solver  
+<div align="center">
 
-🚀 Welcome to my GitHub! I’m a passionate developer who loves building full-stack web applications and learning new technologies every single day.  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=VITTHAL%20GANESH%20SHIVANE&fontSize=42&fontColor=ffffff&color=0:020617,50:0f172a,100:06b6d4&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI%20%7C%20BACKEND&descAlignY=60&descSize=16" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+%7C+Backend+%7C+AI;Building+real-world+applications;Exploring+Docker%2C+Cloud+%26+Microservices;Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Learn" />
 
-## 🌟 About Me  
-🎓 B.Tech in **Computer Science and Engineering** at Priyadarshini Bhagwati College of Engineering, Nagpur  
-⚙️ Diploma in **Mechanical Engineering** from PL Government Polytechnic, Latur  
-💻 Transitioned from mechanical roots to modern software engineering  
-🔥 Currently exploring **DSA, system design, and cloud technologies**  
+<br/>
 
-I enjoy turning complex problems into simple, beautiful, and intuitive solutions — and believe that clean code is poetry written in logic.  
+<a href="https://github.com/vitthalganeshshivane">
+<img src="https://komarev.com/ghpvc/?username=vitthalganeshshivane&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
+</a>
+<a href="https://github.com/vitthalganeshshivane?tab=followers">
+<img src="https://img.shields.io/github/followers/vitthalganeshshivane?style=for-the-badge&color=172554&label=FOLLOWERS&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/vitthalganeshshivane">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vitthalganeshshivane@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-
-## 📊 GitHub Stats – Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&theme=tokyonight" />
-</p>
-
-
+</div>
 
 ---
 
-## 🧠 Technical Skills  
+## ⚡ About
 
-### 💻 Frontend  
-- **React.js** ⚛️  
-- **JavaScript (ES6+)**  
-- **HTML5, CSS3, Tailwind CSS**  
+I’m a **Full-Stack Developer** focused on building real-world applications with **MERN, REST APIs, MongoDB, authentication, integrations and deployment**.
 
-### ⚙️ Backend  
-- **Node.js, Express.js**  
-- **MongoDB (Mongoose ORM)**  
-- **RESTful APIs & Authentication (JWT)**  
+I enjoy understanding software beyond the UI — how the **API, database, infrastructure and services** fit together.
 
-### 🧰 Tools & Technologies  
-- **Git, GitHub, VS Code, Postman, npm**  
-- Familiar with **Socket.io, Material-UI, Bootstrap**  
-- Currently learning **Redux Toolkit**, **TypeScript**, and **AWS**  
+**Mechanical Engineering → Computer Science → Software Engineering**
 
 ---
 
-## 🧩 Experience  
+## 🧰 Tech Stack
 
-### 💼 Full Stack Developer Intern — *TARS Technologies*  
-📅 April 2026 – Present | Hybrid  
+<div align="center">
 
-**Key Work:**  
-- Developing a **single-vendor eCommerce platform** with end-to-end MERN stack integration  
-- Building and integrating **RESTful APIs** for product management, authentication, and order processing  
-- Designing responsive and scalable **frontend components using React**  
-- Collaborating with the development team using **Git workflows, code reviews, and task-based execution**  
-- Actively working in a **real-world agile environment**, contributing to feature development and debugging  
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,docker,linux,git,github,postman,vercel,aws,nginx" />
+
+</div>
 
 ---
 
-### 💼 MERN Stack Developer Intern — *Amika Softwares*  
-📅 May 2025 – June 2025 | On-site  
+## 💼 TARS Technologies
 
-**Key Work:**  
-- Developed full-stack web apps using **MongoDB, Express.js, React, Node.js**  
-- Built REST APIs and responsive UIs for live projects  
-- Collaborated on version control via Git and code reviews  
-- Gained hands-on exposure to scalable software design and debugging  
+**Full Stack Developer Intern · April 2026 → Present**
 
----
+### 🛒 GreenHouse Market
 
-## 🚀 Projects  
+`MERN · Redux · Cashfree · Cloudinary · Email`
 
-### 🧳 [Vroom45 – Ride Booking App](https://vroom45.vercel.app/)  
-A full-stack **Uber-like ride booking app** for mobile users with live location tracking and real-time ride updates.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT, Socket.io, Redux Toolkit  
-🔹 Features: Real-time ride tracking, role-based access, mobile-first UI  
+Authentication • Cart • Wishlist • Orders • Payments • Webhooks • Reviews • Analytics • Image Uploads • Email Workflows • Deployment
 
----
+<a href="https://github.com/vitthalganeshshivane/TARS_GreenHouse_Market_">→ Repository</a>
 
-### 🏫 [Digital Classroom Platform](https://digital-classroom-gamma.vercel.app/)  
-A web-based classroom management system connecting teachers and students with live class links, assignments, and study materials.  
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Socket.io, Cloudinary  
-🔹 Features: Role-based auth, notice board, assignment uploads, responsive UI  
+### 🌐 TARS 360
+
+`React · REST APIs · Cloudinary · Vercel`
+
+Frontend redesign • Admin CRUD • File uploads • Progress tracking • Retry/Delete • Responsive UI • CORS • Deployment
+
+<a href="https://github.com/vitthalganeshshivane/tars-360">→ Repository</a>
 
 ---
 
-## 🎯 Current Goals  
-- Master **DSA in Java** and improve problem-solving skills  
-- Explore **Cloud Computing (AWS)** and advanced **React patterns**  
-- Build production-level full-stack applications  
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Assistify
+
+**AI-Powered Customer Support**
+
+`Next.js` `TypeScript` `MongoDB` `Gemini`
+
+AI customer-support platform with authentication and an embeddable chatbot.
+
+<a href="https://github.com/vitthalganeshshivane/Assistify">View Project →</a>
+
+</td>
+<td width="50%">
+
+### 📝 WriteFlow
+
+**Writing & Document Platform**
+
+`React` `Node.js` `Express` `MongoDB`
+
+Rich-text editing, documents, authentication, APIs and email workflows.
+
+<a href="https://github.com/vitthalganeshshivane/Writeflow-Client">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🤖 Veyronica
+
+**Personal AI Assistant**
+
+`MERN` `Ollama` `Groq` `LLMs`
+
+Exploring local AI, cloud models, agents and tool calling.
+
+<a href="https://github.com/vitthalganeshshivane/veyronica-skills">View Project →</a>
+
+</td>
+<td>
+
+### 📄 ResuMint
+
+**Resume Builder**
+
+Dynamic resume creation and management platform.
+
+<a href="https://github.com/vitthalganeshshivane/ResuMint">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📝 DocSpace
+
+**Collaborative Document Editor**
+
+`TipTap` `Tailwind` `Zustand`
+
+Rich-text editing and document workflows.
+
+<a href="https://github.com/vitthalganeshshivane/DocSpace-Collaborative-Document-Editor">View Project →</a>
+
+</td>
+<td>
+
+### 🚕 Ubar / Vroom45
+
+**Ride Booking Platform**
+
+`MERN` `Socket.io` `Redux` `JWT`
+
+Real-time ride and location-based workflows.
+
+<a href="https://github.com/vitthalganeshshivane/Ubar_Clone-frontend">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎓 Digital Classroom
+
+**Learning Platform**
+
+`MERN` `Socket.io` `Cloudinary`
+
+Teacher/student workflows, assignments and live classes.
+
+<a href="https://github.com/vitthalganeshshivane/digital-classroom-frontend">View Project →</a>
+
+</td>
+<td>
+
+### 🏎️ Bugatti Tourbillon
+
+**Interactive Automotive Experience**
+
+Interactive frontend experiment inspired by automotive design and engineering.
+
+<a href="https://github.com/vitthalganeshshivane/Bugatti_Tourbillion">View Project →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Education  
-🎓 **B.Tech – Computer Science & Engineering**  
-*Rashtrasant Tukadoji Maharaj Nagpur University (2023–2026)*  
+## 🔭 Currently Exploring
 
-🎓 **Diploma – Mechanical Engineering**  
-*Puranmal Lahoti Govt. Polytechnic, Latur (2020–2023)*  
+<div align="center">
 
----
+`Docker` · `Microservices` · `API Gateways` · `TypeScript` · `System Design` · `Cloud` · `CI/CD` · `AI Agents` · `LLMs`
 
-## 💬 Let's Connect  
-
-📧 **Email:** [vitthalganeshshivane@gmail.com](mailto:vitthalganeshshivane@gmail.com)  
-🌐 **Portfolio:** [vitthalganeshshivane.vercel.app](https://vitthalganeshshivane.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/vitthalganeshshivane](https://www.linkedin.com/in/vitthalganeshshivane)  
-💻 **GitHub:** [github.com/vitthalganeshshivane](https://github.com/vitthalganeshshivane)  
-📱 **Phone:** +91 9370394732  
-📍 Nagpur, India  
+</div>
 
 ---
 
-⭐ *“Code with logic, design with passion, and build with purpose.”*  
+## 🎓 Education
 
+<div align="center">
+
+| Degree | Institution | Year |
+|---|---|---|
+| **B.Tech — Computer Science & Engineering** | Priyadarshini Bhagwati College of Engineering, Nagpur | 2023–2026 |
+| **Diploma — Mechanical Engineering** | Puranmal Lahoti Government Polytechnic, Latur | 2020–2023 |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vitthalganeshshivane&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitthalganeshshivane&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=vitthalganeshshivane&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitthalganeshshivane&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧪 Other Builds
+
+<div align="center">
+
+`MarathiLang` · `DSA Java` · `macOS Portfolio` · `Spotify Clone` · `Invoice Intel` · `Destination Linux` · `Destination Rust` · `Destination TypeScript`
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:vitthalganeshshivane@gmail.com">📧 Email</a>
+&nbsp; • &nbsp;
+<a href="https://www.linkedin.com/in/vitthalganeshshivane">💼 LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://vitthalganeshshivane.vercel.app">🌐 Portfolio</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/vitthalganeshshivane">💻 GitHub</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:0f172a,100:020617&animation=twinkling" width="100%"/>
+
+### `BUILD → BREAK → DEBUG → LEARN → REPEAT`
+
+</div>
